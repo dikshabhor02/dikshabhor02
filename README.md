@@ -1,59 +1,153 @@
-# 💫 Hi 👋, I'm Diksha Bhor
-🚀 I build backend applications using Spring Boot, REST APIs, and MySQL.
+# 👋 Hi, I'm Diksha Bhor
 
-Email Me 👉 ✉️ **dikshabhor2004@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-- 🔭 **I’m currently working on:** Role based authentication system
-- 🌱 **I’m currently learning:** Spring security
-- 📫 **How to reach me:** dikshabhor2004@gmail.com
-- 😄 **Pronouns:** Diksha Bhor
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+I'm a **Computer Science & Engineering graduate** passionate about building backend applications and solving real-world problems through clean and scalable code.
+
+I primarily work with **Java, Spring Boot, REST APIs, MySQL, JPA/Hibernate, and Spring Security**.
+
+🎯 Currently looking for **Entry-Level Java Developer / Backend Developer / Software Engineer** opportunities.
+
+---
+
+## 🚀 About Me
+
+* 💻 Focused on **Java Backend Development**
+* 🌱 Currently improving my skills in **Spring Boot, Spring Security & REST API development**
+* 🔐 Interested in **Authentication, Authorization and Backend Security**
+* 🗄️ Comfortable working with **MySQL and relational databases**
+* 🛠️ Experienced with **JPA/Hibernate, Maven and Postman**
+* 📚 Continuously learning and building projects to strengthen my development skills
+* 🤝 Open to collaboration and entry-level software development opportunities
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+### Tools
+
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+
+### Programming & Web
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+---
 
 ## 📌 Featured Projects
 
-### 🔹 Personal Finance Tracker API
-- Built using Spring Boot & MySQL
-- Features: Add, Update, Delete, View Expenses
-- Implemented REST APIs and tested using Postman  
+### 🔐 Role-Based Authentication System
+
+A backend authentication and authorization application built using **Java, Spring Boot and Spring Security**.
+
+**Key concepts:**
+
+* User authentication and authorization
+* Role-based access control
+* Secure backend APIs
+* Spring Security
+* JWT-based authentication
+
+🔗 **Repository:** [View Project](https://github.com/dikshabhor02/rbac-project)
 
 ---
 
-### 🔹 Role-Based Authentication System
-- Implementing Spring Security
-- JWT Authentication & Authorization
-  
-## 🌐 Socials:
-(mailto:dikshabhor2004@gmail.com) 
+### 💰 Personal Finance Tracker
 
-<!-- Snake Game Repo View -->
+A Spring Boot backend application for managing personal expenses using REST APIs.
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+**Features:**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+* Add expenses
+* Update expenses
+* Delete expenses
+* View expenses
+* RESTful API architecture
+* MySQL database integration
+* API testing using Postman
 
-## 📈 What I’m Doing Now
-- Learning Spring Security
-- Building backend projects for placements
-  
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dikshabhor02&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dikshabhor02&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshabhor02&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**Tech:** Java | Spring Boot | REST API | MySQL | JPA/Hibernate
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dikshabhor02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🔗 **Repository:** [View Project](https://github.com/dikshabhor02/personal-finance-tracker)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dikshabhor02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📦 Smart Inventory Backend
+
+Backend application focused on inventory management and backend development concepts.
+
+**Tech:** Java | Spring Boot | REST API | Database
+
+🔗 **Repository:** [View Project](https://github.com/dikshabhor02/smart-inventory-backend)
+
+---
+
+## 📚 Currently Learning
+
+```text
+Spring Boot
+    ↓
+REST API Development
+    ↓
+Spring Security
+    ↓
+JPA / Hibernate
+    ↓
+MySQL
+    ↓
+Backend Architecture
+```
+
+I'm continuously improving my understanding of **Java, Spring Boot, database design, REST APIs, authentication and backend system development**.
+
+---
+
+## 🎯 Career Goal
+
+I'm looking for an opportunity as a:
+
+* Java Developer
+* Java Backend Developer
+* Spring Boot Developer
+* Backend Developer
+* Associate Software Engineer
+* Software Engineer – Entry Level
+
+I'm especially interested in opportunities where I can **learn from experienced developers, contribute to real-world applications and grow as a backend engineer.**
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [dikshabhor2004@gmail.com](mailto:dikshabhor2004@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/diksha-bhor](https://www.linkedin.com/in/diksha-bhor)
+
+💻 **GitHub:** [github.com/dikshabhor02](https://github.com/dikshabhor02)
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects useful, feel free to ⭐ star the repositories and connect with me.
